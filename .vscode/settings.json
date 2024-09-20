@@ -1,0 +1,8 @@
+{
+    "editor.stickyScroll.scrollWithEditor": false,
+    "workbench.tree.enableStickyScroll": false,
+    "editor.hover.sticky": true,
+    "editor.stickyScroll.enabled": false,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "dart.previewHotReloadOnSaveWatcher": true
+}
